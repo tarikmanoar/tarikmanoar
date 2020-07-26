@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/tarikmanoar">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Tarik Manoar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🔭 I’m currently working on my project [KajKi](https://github.com/kajki)
+- 🌱 I’m currently learning Vue.js & Laravel
+- 👯 I’m looking to collaborate on [AARKS](https://github.com/aarks)
+- 💬 Ask me about anything [here](https://github.com/tarikmanoar/tarikmanoar/issues)
 
 **Languages and Tools:**  
 
