@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
 
 
+
 <a href="https://twitter.com/tarikmanoar">
   <img align="left" alt="Tarik Manoar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<a href="https://facebook.com/tarikmanoar">
+  <img align="left" alt="Tarik Manoar | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/889/889100.svg" />
+</a>
+<!--
+<a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/twitter/follow/tarikmanoar?label=Follow" alt="Twitter"></a>
+-->
 
 <br />
 <br />
@@ -55,7 +61,7 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 </a>
 
 <a href="https://github.com/tarikmanoar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=aarks&theme=radical" />
 </a>    
 <a href="https://github.com/tarikmanoar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
