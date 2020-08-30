@@ -62,8 +62,15 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 </a>
 
 <a href="https://github.com/tarikmanoar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=devsonket.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=aarks&theme=radical" />
 </a>    
 <a href="https://github.com/tarikmanoar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
+</a>
+
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=book-review&theme=radical" />
+</a>    
+<a href="https://github.com/tarikmanoar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=umrahserv&theme=radical" />
 </a>
