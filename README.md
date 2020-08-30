@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <a href="https://facebook.com/tarikmanoar">
   <img align="left" alt="Tarik Manoar | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/889/889100.svg" />
 </a>
+<a href="https://www.linkedin.com/in/tarikmanoar/">
+  <img align="left" alt="Tarik Manoar | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+</a>
 <!--
 <a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/twitter/follow/tarikmanoar?label=Follow" alt="Twitter"></a>
 -->
