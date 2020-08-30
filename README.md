@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 
 - 🔭 I’m currently working on my project [KajKi](https://github.com/kajki)
+- 🔭 I’m currently contributing on [DevSonKet](https://devsonket.com)
 - 🌱 I’m currently learning Vue.js & Laravel
 - 👯 I’m looking to collaborate on [AARKS](https://github.com/aarks)
 - 💬 Ask me about anything [here](https://github.com/tarikmanoar/tarikmanoar/issues)
@@ -61,7 +62,7 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 </a>
 
 <a href="https://github.com/tarikmanoar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=aarks&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=devsonket.github.io&theme=radical" />
 </a>    
 <a href="https://github.com/tarikmanoar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
