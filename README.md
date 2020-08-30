@@ -44,10 +44,11 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://laravel.com/img/favicon/favicon.ico"></code>
+<code><img height="20" src="https://www.php.net/favicon.ico"></code>
+<code><img height="20" src="https://vuejs.org/images/icons/apple-icon-180x180.png"></code> 
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
 
 
 
@@ -66,11 +67,4 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 </a>    
 <a href="https://github.com/tarikmanoar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
-</a>
-
-<a href="https://github.com/tarikmanoar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=book-review&theme=radical" />
-</a>    
-<a href="https://github.com/tarikmanoar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=umrahserv&theme=radical" />
 </a>
