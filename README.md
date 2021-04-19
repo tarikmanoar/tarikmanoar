@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://twitter.com/tarikmanoar">
+<a href="https://twitter.com/tarikmanoar" target="_blank">
   <img align="left" alt="Tarik Manoar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://facebook.com/tarikmanoar">
+<a href="https://facebook.com/tarikmanoar"target="_blank">
   <img align="left" alt="Tarik Manoar | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/889/889100.svg" />
 </a>
-<a href="https://www.linkedin.com/in/tarikmanoar/">
+<a href="https://www.linkedin.com/in/tarikmanoar/"target="_blank">
   <img align="left" alt="Tarik Manoar | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 <!--
@@ -41,7 +41,7 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 - 🔭 I’m currently working on my project [KajKi](https://github.com/kajki)
 - 🔭 I’m currently contributing on [DevSonKet](https://devsonket.com)
 - 🌱 I’m currently learning Vue.js & Laravel
-- 👯 I’m looking to collaborate on [AARKS](https://github.com/aarks)
+- 👯 I’m looking to collaborate on [DeshiSmash](https://github.com/deshismash)
 - 💬 Ask me about anything [here](https://github.com/tarikmanoar/tarikmanoar/issues)
 
 **Languages and Tools:**  
@@ -58,16 +58,16 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<a href="https://github.com/tarikmanoar">
+<a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical&hide=python,shell" />
 </a>
-<a href="https://github.com/tarikmanoar">
+<a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
 </a>
 
-<a href="https://github.com/tarikmanoar">
+<a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
 </a>    
-<a href="https://github.com/tarikmanoar">
+<a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
