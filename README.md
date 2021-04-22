@@ -46,13 +46,16 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://laravel.com/img/favicon/favicon.ico"></code>
-<code><img height="20" src="https://www.php.net/favicon.ico"></code>
-<code><img height="20" src="https://vuejs.org/images/icons/apple-icon-180x180.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> 
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code> 
 
+ 
+
+
+ 
+
+
+|  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
+|:-:|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> |  <code><img height="50" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code>  | <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  |  <code><img height="50" src="https://vuejs.org/images/icons/apple-icon-180x180.png"></code> |  <code><img height="50" src="https://www.php.net/favicon.ico"></code> |  <code><img height="50" src="https://laravel.com/img/favicon/favicon.ico"></code> |
 
 
 
