@@ -44,6 +44,7 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 - 👯 I’m looking to collaborate on [DeshiSmash](https://github.com/deshismash)
 - 💬 Ask me about anything [here](https://github.com/tarikmanoar/tarikmanoar/issues)
 
+
 **Languages and Tools:**  
 
 
@@ -74,3 +75,7 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
