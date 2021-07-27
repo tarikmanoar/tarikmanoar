@@ -88,7 +88,3 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
-
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
