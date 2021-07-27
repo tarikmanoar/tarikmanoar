@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
 
-
-
+<!--
 <a href="https://twitter.com/tarikmanoar" target="_blank">
   <img align="left" alt="Tarik Manoar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -29,11 +28,22 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/tarikmanoar/"target="_blank">
   <img align="left" alt="Tarik Manoar | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
-<!--
+
 <a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/twitter/follow/tarikmanoar?label=Follow" alt="Twitter"></a>
 -->
 
-<br />
+<a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tarikmanoar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/tarikmanoar/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
+<a href="https://gitlab.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/nt605IiAh0N5"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
+<a href="https://m.me/tarikmanoar"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
+
 <br />
 
 Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
