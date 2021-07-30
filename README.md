@@ -76,25 +76,23 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 <a href="https://github.com/tarikmanoar" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical&hide=python,shell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
 </a>
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
 </a>
-
+<!--
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
 </a>    
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
-
+-->
 
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=tarikmanoar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
 
