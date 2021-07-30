@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 
 
+
+
 ### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
 
 <!--
@@ -74,14 +76,14 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
-
+<!--
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical" />
-</a>
+</a> 
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
 </a>
-<!--
+
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
 </a>    
@@ -89,6 +91,9 @@ Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=kajki&theme=radical" />
 </a>
 -->
+
+| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikmanoar&theme=radical)](https://github.com/tarikmanoar, "Manoar's Github")  |  [![Tarik Manoar Github](https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=40 "Tarik Manoar Github")](https://github.com/tarikmanoar "Manoar's Github") |
+| :------------: | :------------: |
 
 
 <br>
