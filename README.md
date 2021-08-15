@@ -20,24 +20,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
 
-<!--
-<a href="https://twitter.com/tarikmanoar" target="_blank">
-  <img align="left" alt="Tarik Manoar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://facebook.com/tarikmanoar"target="_blank">
-  <img align="left" alt="Tarik Manoar | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/889/889100.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tarikmanoar/"target="_blank">
-  <img align="left" alt="Tarik Manoar | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
-
-<a href="https://twitter.com/tarikmanoar"><img src="https://img.shields.io/twitter/follow/tarikmanoar?label=Follow" alt="Twitter"></a>
--->
-
-<!--
-<a href="https://github.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
--->
-
 <a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -51,13 +33,11 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Tarik Manoar, a passionate self-taught Full-stack web developer.
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
+</p>
 
-- 🔭 I’m currently working on my project [KajKi](https://github.com/kajki)
-- 🔭 I’m currently contributing on [DevSonKet](https://devsonket.com)
-- 🌱 I’m currently learning Vue.js & Laravel
-- 👯 I’m looking to collaborate on [DeshiSmash](https://github.com/deshismash)
-- 💬 Ask me about anything [here](https://github.com/tarikmanoar/tarikmanoar/issues)
+
 
 
 **Languages and Tools:**  
