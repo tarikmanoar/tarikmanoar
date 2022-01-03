@@ -66,7 +66,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
 
 <br>
+
 <p align="center">
     Aww, You made this far. Here is a Gift for you
 </p>
+
 <br>
