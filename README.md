@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 |  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
 |:-:|:-:|:-:|:-:|:-:|---|
-|  <code><img height="50" src="iamge/html5.png"></code> |  <code><img height="50" src="image/css3.png"></code>  | <code><img height="50" src="image/js.png"></code>  |  <code><img height="50" src="iamge/vue.svg"></code> |  <code><img height="50" src="image/php.png"></code> |  <code><img height="50" src="image/laravel.ico"></code> |
+|  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/vue.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
 
 
 
