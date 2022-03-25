@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h3 align="center">Show me your cards</h3>
+<h3 align="center">Show me your cards </h3>
 <br>
 
 <p align="center">
@@ -68,7 +68,7 @@
 <br>
 
 <p align="center">
-    Aww, You made this far. Here is a Gift for you
+    Aww, You made this far. Here is a Gift for you.........
 </p>
 
 <br>
