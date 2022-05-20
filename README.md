@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
-
+<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+<div align="center">
 <a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -29,6 +32,9 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/nt605IiAh0N5"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
 <a href="https://m.me/tarikmanoar"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
+</div>
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
 
 <br />
