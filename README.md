@@ -89,9 +89,15 @@ Here are some ideas to get you started:
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
 </div>
-
 <br>
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
