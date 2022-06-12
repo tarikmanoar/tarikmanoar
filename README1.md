@@ -1,4 +1,5 @@
-<h3 align="center">Hi, Manoar 👋</h3>
+<h3 align="center">Hi, Manoar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif" height="45" width="45" /></h3>
 
 <br>
 
