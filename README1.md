@@ -1,4 +1,5 @@
-<h3 align="center">Hi, Manoar 👋</h3>
+<h3 align="center">Hi, I'm Manoar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif" height="45" width="45" /></h3>
 
 <br>
 
@@ -25,7 +26,7 @@
 </p>
 
 <hr>
-<h3 align="center">Show me your cards</h3>
+<h3 align="center">Show me your cards </h3>
 <br>
 
 <p align="center">
@@ -66,7 +67,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
 
 <br>
+
 <p align="center">
-    Aww, You made this far. Here is a Gift for you
+    Aww, You made this far. Here is a Gift for you.........
 </p>
+
 <br>

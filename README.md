@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm [Manoar!](https://tarikmanoar.github.io) 👋
-
+<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+<div align="center">
 <a href="mailto:tarikmanoar@gmail.com"><img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://tarikmanoar.github.io/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a href="https://facebook.com/tarikmanoar"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -29,6 +32,9 @@ Here are some ideas to get you started:
 <a href="https://gitlab.com/tarikmanoar"><img src="https://img.shields.io/badge/-GitLab-F29111?style=flat-square&labelColor=F29111&logo=gitlab&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/nt605IiAh0N5"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
 <a href="https://m.me/tarikmanoar"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
+</div>
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarikmanoar.tarikmanoar)
 
 <br />
@@ -36,6 +42,7 @@ Here are some ideas to get you started:
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="100%" src="relax.gif" />
 </p>
+
 
 
 
@@ -51,7 +58,7 @@ Here are some ideas to get you started:
 
 |  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
 |:-:|:-:|:-:|:-:|:-:|---|
-|  <code><img height="50" src="https://image.flaticon.com/icons/png/512/174/174854.png"></code> |  <code><img height="50" src="https://image.flaticon.com/icons/png/512/919/919826.png"></code>  | <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  |  <code><img height="50" src="https://vuejs.org/images/icons/apple-icon-180x180.png"></code> |  <code><img height="50" src="https://www.php.net/favicon.ico"></code> |  <code><img height="50" src="https://laravel.com/img/favicon/favicon.ico"></code> |
+|  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/vue.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
 
 
 
@@ -63,6 +70,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&theme=radical&line_height=27" alt="Manoar's github stats" style="width: 685px;" />
 </a>
+
 
 <a href="https://github.com/tarikmanoar" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tarikmanoar&repo=html&theme=radical" />
@@ -81,9 +89,15 @@ Here are some ideas to get you started:
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
 </div>
-
 <br>
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=tarikmanoar&theme=redical)
+
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
