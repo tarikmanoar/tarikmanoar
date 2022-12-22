@@ -1,17 +1,12 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Auto Commit
-
-# Controls when the action will run. This action runs every 6 hours.
-
 on:
+  push:
+    branches: [master]
   # schedule:
   #   # every 6 hours
   #   - cron: "0 */6 * * *"
-  push:
-    branches: [master]
   # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+  # workflow_dispatch:
 
 jobs:
   build:
