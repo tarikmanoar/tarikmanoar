@@ -39,5 +39,8 @@ jobs:
         run: |
           pwd
           ls -al
+          txt=$(date +"%Y-%m-%d %H:%M.%S")
+          echo txt
+          echo $txt  >> date.txt
           git status
 
