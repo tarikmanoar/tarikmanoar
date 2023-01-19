@@ -73,3 +73,6 @@
 </p>
 
 <br>
+
+
+[![Check out tarikmanoar's profile on stardev.io](https://stardev.io/developers/tarikmanoar/badge/languages/country.svg)](https://stardev.io/developers/tarikmanoar)
