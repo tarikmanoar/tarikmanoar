@@ -1,0 +1,21 @@
+name: Commit history animation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-animation:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Generate commit history animation
+      uses: docker://alvcu/gource
+      env:
+        REPOSITORY: ${{ github.repository }}
+      with:
+        args: --output-ppm-stream - | ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset ultrafast -pix_fmt yuv420p -crf 1 -threads 0 -bf 0 output.mp4
