@@ -3,7 +3,7 @@ name: Commit history animation
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate-animation:
