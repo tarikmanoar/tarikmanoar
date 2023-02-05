@@ -27,13 +27,22 @@ jobs:
           
       - name: "Git Commit"
         run: |
-          pwd
-          ls -al
           txt=$(date +"%Y-%m-%d %H:%M.%S")
           echo $txt
           echo $txt  >> date.txt
-          git status
       
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: cd chat
+      - run: npm install
+
+      - name: Generate chat svg
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: node build-svg.js
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
