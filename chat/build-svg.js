@@ -62,7 +62,7 @@ const psTime = formatDistance(new Date(2021, 01, 01), today, {
 })
 
 // Today's weather
-const locationKey = '28143'
+const locationKey = '28143';
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 
 got(url, {
@@ -78,25 +78,25 @@ got(url, {
 
         fs.readFile('chat/template.svg', 'utf-8', (error, data) => {
             if (error) {
-                return
+                return;
             }
-
-            data = data.replace('{degF}', degF)
-            data = data.replace('{degC}', degC)
-            data = data.replace('{weatherEmoji}', emojis[icon])
-            data = data.replace('{psTime}', psTime)
-            data = data.replace('{todayDay}', todayDay)
-            data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay])
+            console.log(data);
+            data = data.replace('{degF}', degF);
+            data = data.replace('{degC}', degC);
+            data = data.replace('{weatherEmoji}', emojis[icon]);
+            data = data.replace('{psTime}', psTime);
+            data = data.replace('{todayDay}', todayDay);
+            data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay]);
 
             data = fs.writeFile('chat/chat.svg', data, (err) => {
                 if (err) {
-                    console.error(err)
-                    return
+                    console.error(err);
+                    return;
                 }
-            })
-        })
+            });
+        });
     })
     .catch((err) => {
         // TODO: something better
-        console.log(err)
-    })
+        console.log(err);
+    });
