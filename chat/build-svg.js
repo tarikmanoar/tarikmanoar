@@ -76,7 +76,7 @@ got(url, {
         const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
         const icon = json.DailyForecasts[0].Day.Icon
 
-        fs.readFile('chat/template.svg', 'utf-8', (error, data) => {
+        fs.readFile(process.env.PATH + '/template.svg', 'utf-8', (error, data) => {
             if (error) {
                 return;
             }
@@ -88,7 +88,7 @@ got(url, {
             data = data.replace('{todayDay}', todayDay);
             data = data.replace('{dayBubbleWidth}', dayBubbleWidths[todayDay]);
 
-            data = fs.writeFile('chat/chat.svg', data, (err) => {
+            data = fs.writeFile(process.env.PATH + '/chat.svg', data, (err) => {
                 if (err) {
                     console.error(err);
                     return;
