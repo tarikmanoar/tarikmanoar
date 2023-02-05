@@ -30,6 +30,8 @@ jobs:
           txt=$(date +"%Y-%m-%d %H:%M.%S")
           echo $txt
           echo $txt  >> date.txt
+          pwd
+          cd chat && pwd
       
       - name: Use Node.js
         uses: actions/setup-node@v2
