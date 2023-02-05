@@ -25,7 +25,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           
-      - name: "Git Commit"
+      - name: "Write date to repository"
         run: |
           txt=$(date +"%Y-%m-%d %H:%M.%S")
           echo $txt
