@@ -69,7 +69,8 @@ got(url, {
         prefixUrl: WEATHER_DOMAIN
     })
     .then((response) => {
-        console.log(response.body)
+        console.log(process.env.PATH + '/template.svg');
+        console.log(response.body);
         let json = JSON.parse(response.body)
 
         const degF = Math.round(json.DailyForecasts[0].Temperature.Maximum.Value)
