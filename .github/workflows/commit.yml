@@ -31,7 +31,7 @@ jobs:
           echo $txt
           echo $txt  >> date.txt
           pwd
-          cd chat && pwd
+          cht = cd chat && pwd
       
       - name: Use Node.js
         uses: actions/setup-node@v2
@@ -42,6 +42,7 @@ jobs:
       - name: Generate chat svg
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          PATH: $cht
         run: cd chat && node build-svg.js
 
       - name: Commit changes
