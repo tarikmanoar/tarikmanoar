@@ -55,3 +55,6 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <p align="center"> <a href="https://github.com/tarikmanoar"><img src="https://github-profile-trophy.vercel.app/?username=tarikmanoar&margin-w=5&theme=radical" alt="tarikmanoar" /></a> </p>
 
 <br>
+
+
+[![](https://spotify-recently-played-readme.vercel.app/api?user=31hzrvfmrsqdipin2szqfqhcdtf4&count=5&width=375)](https://github.com/tarikmanoar)
