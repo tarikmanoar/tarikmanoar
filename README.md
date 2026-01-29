@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats
 <div>
+<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarikmanoar&bg_color=1a1b27&color=38bdae&line=628fdb&point=fff&area=true&hide_border=true" alt="tarikmanoar" />
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikmanoar&theme=radical" alt="tarikmanoar" />
 <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=tarikmanoar&show_icons=true&locale=en&theme=radical" alt="tarikmanoar" />
 </div>
